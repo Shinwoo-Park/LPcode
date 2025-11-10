@@ -1,4 +1,4 @@
-# Detection of LLM-Paraphrased Code and Identification of the Responsible LLM Using Coding Style Features
+# Detection of LLM-Paraphrased Code and Identification of the Responsible LLM Using Coding Style Features (In Engineering Applications of Artificial Intelligence, Vol. 162, December 2025)
 
 [**📖 Paper**](https://arxiv.org/abs/2502.17749)
 
